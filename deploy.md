@@ -74,8 +74,8 @@ git push -u origin main
 In Railway dashboard, go to Variables and add:
 ```env
 MONGO_URL=mongodb+srv://portfolio_user:yourpassword@portfolio-cluster.xxxxx.mongodb.net/portfolio
-SENDINBLUE_API_KEY=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
-ADMIN_EMAIL=jadhavnikhil088@gmail.com
+SENDINBLUE_API_KEY=API_key
+ADMIN_EMAIL=yourEmail@gmail.com
 JWT_SECRET=your-super-secure-jwt-secret-key-for-production
 ADMIN_PASSWORD=your-secure-admin-password-123
 DB_NAME=portfolio
