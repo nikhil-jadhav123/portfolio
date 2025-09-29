@@ -59,8 +59,8 @@ MONGO_URL=mongodb+srv://username:password@cluster.mongodb.net/portfolio
 
 ### Sendinblue (Email):
 ```
-SENDINBLUE_API_KEY=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
-ADMIN_EMAIL=jadhavnikhil088@gmail.com
+SENDINBLUE_API_KEY=YourAPI key
+ADMIN_EMAIL=your@gmail.com
 ```
 
 ### Security:
